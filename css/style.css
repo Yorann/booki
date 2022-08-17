@@ -285,7 +285,7 @@ header {
 /*Bouton rechercher*/
 
 .btn-filter {
-  background-color:aqua;
+  background-color:red;
   border: none;
   width: 200px;
   font-size: 17px;
