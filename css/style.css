@@ -285,7 +285,7 @@ header {
 /*Bouton rechercher*/
 
 .btn-filter {
-  background-color:red;
+  background-color:#0065fc;
   border: none;
   width: 200px;
   font-size: 17px;
@@ -718,7 +718,7 @@ header {
 
   .size-logo {
     width: 30%;
-    margin-left: 140px;
+    margin-left: 148px;
   }
 
   body {
